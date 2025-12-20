@@ -8,7 +8,7 @@ def register(request):
         # Вывод пустой формы регистрации.
         form = UserCreationForm()
     else:
-        # Обработка запполненной формы.
+        # Обработка заполненной формы.
         form = UserCreationForm(data=request.POST)
         if form.is_valid():
             new_user = form.save()
