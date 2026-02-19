@@ -30,7 +30,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/dshebeko20/learning-log.git
+   git clone https://github.com/dshebeko20/learning_log.git
 
 2. Создайте виртуальное окружение:
    ```bash
