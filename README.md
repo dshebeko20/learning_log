@@ -87,7 +87,7 @@
 
 ![Главная страница](https://github.com/dshebeko20/learning_log/blob/main/screenshots/main_page.png)  
 ![Регистрациия](https://github.com/dshebeko20/learning_log/blob/main/screenshots/form_register.png)  
-![Страница тем](https://github.com/dshebeko20/learning_log/blob/main/screenshots/topics.png)
+![Страница тем](https://github.com/dshebeko20/learning_log/blob/main/screenshots/topics.png)  
 
 ![Страница описаний](https://github.com/dshebeko20/learning_log/blob/main/screenshots/entries.png)
 
