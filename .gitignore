@@ -10,6 +10,6 @@ online_resources_site/site/
 
 *.sqlite3
 
-# Не нужные файиы для репозитория.
+# Не нужные файлы для репозитория.
 amvera.yml
 
