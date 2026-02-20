@@ -83,8 +83,16 @@
 - 📋 в разделе «Topics» отображается список тем;
 - 🔍 кликните на тему для просмотра записей.
 
+## 📸 Скриншоты
+
+![Главная страница](https://github.com/dshebeko20/learning_log/blob/main/screenshots/main_page.png)  
+![Регистрациия](https://github.com/dshebeko20/learning_log/blob/main/screenshots/form_register.png)  
+![Страница тем](https://github.com/dshebeko20/learning_log/blob/main/screenshots/topics.png)  
+
+![Страница описаний](https://github.com/dshebeko20/learning_log/blob/main/screenshots/entries.png)
 
 ## 📚 Пройденные концепции (по главам книги)
+
 - Главы 1–11: 🐍 основы Python, 📁 работа с файлами, 🧪 тесты;
 - Главы 12–15: ⚙️ настройка Django, 🗃️ модели, 🖼️ шаблоны;
 - Главы 16–18: 📋 формы, 🔑 аутентификация, 📦 развёртывание;
@@ -92,16 +100,19 @@
 
 
 ## 📜 Лицензия
+
 Проект носит учебный характер. Код доступен под лицензией MIT.
 
 
 ## 👤 Контакты
+
 - Автор: Шебеко Дмитрий
 - Email: dshebeko20@gmail.com
 - GitHub: https://github.com/dshebeko20
 
 
-##🙏 Благодарности
+## 🙏 Благодарности
+
 - Эрик Мэтиз — за книгу «Изучаем Python» 📚;
 - сообщество Django — за документацию и примеры 🧑‍💻.
    
